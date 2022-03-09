@@ -2,7 +2,7 @@
 
 <b>Technical Skills:</b> Python, Deep Learning, Machine Learning, Data-set collection, Data Cleaning, Neural Network training
 
-
+<b>For more information: </b> [write-up file](WRITE-UP.md), [model training file](/code/model_training.ipynb).
 
 <b>Libraries used: </b>
 
