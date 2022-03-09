@@ -168,7 +168,7 @@ This is the number of parallel processes during training. This can affect your t
 <img src = "docs/misc/Plot1.png">
 </p>
 <p align = "center">
-Plot 1, <em> Training curves from the sixth epoch(top) to the last one(bottom-30).</em>
+Plot 1, <em> Training curves .</em>
 </p>
 
 ```python
