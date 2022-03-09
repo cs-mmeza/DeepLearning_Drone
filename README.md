@@ -19,7 +19,7 @@
 * PyQt4/Pyqt5
 
 <p align = "center">
-<img src = "/Udaciy_ROS_ND/RoboND-DeepLearning-Project-master/docs/misc/sim_screenshot.png">
+<img src = "/docs/misc/sim_screenshot.png">
 </p>
 
 
@@ -32,5 +32,4 @@ The project runs in a unity simulation, Where it is possible to control a quad-d
 
 This project is part of the [Udacity Robotics Software Nanodegree program](https://www.udacity.com/enterprise/autonomous-systems). 
 
-    # Github Repository:
-    $ git clone https://github.com/udacity/RoboND-DeepLearning.git
+[Udacity Robotics Nanodegree Github Repository](https://github.com/udacity/RoboND-DeepLearning.git)
