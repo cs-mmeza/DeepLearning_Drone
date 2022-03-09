@@ -11,7 +11,7 @@
 
 ##### Notes & Specifications:
 
-This project was trained with a local machine.
+This Neural Network was trained with a local machine.
 
 <b>CPU:</b> Ram-16gb, Ryzen 1700, Nvidia GTX 1080 GPU
 
