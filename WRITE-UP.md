@@ -25,14 +25,14 @@ The main objective of this project is to apply a Fully Convolutional Neural Netw
 The project runs in a unity simulation, Where it is possible to control a quad-drone that can be moved freely in the simulated open space. I set up a pattern that the drone will follow to capture images for recognition. After that, I set up spawning points where the multitude appears. The objective appears in the simulated crowd, which corresponds to the noise in the model. More details are in the image below. <em>(Figure 1, Figure 2)</em>
 
 <p align = "center">
-<img src = "/Udaciy_ROS_ND/RoboND-DeepLearning-Project-master/docs/misc/Figure1.PNG">
+<img src = "docs/misc/Figure1.PNG">
 </p>
 <p align = "center">
 Fig 1, <em>Spawn points(pink and blue) and patterns(green) that spawn people and move the drone on patrol mode.</em>
 </p>
 
 <p align = "center">
-<img src = "/Udaciy_ROS_ND/RoboND-DeepLearning-Project-master/docs/misc/Figure2.PNG">
+<img src = "docs/misc/Figure2.PNG">
 </p>
 <p align = "center">
 Fig 2, <em> Running and collecting data.</em>
@@ -43,7 +43,7 @@ The quad-drone can record and save images. Those images will be pre-processed an
 This model has been trained to recognize people. Thus, the model can't be used to predict other targets in different scenarios (cats, cars, dogs, etc.). To use the model for other applications, We need to feed and train it with the corresponding data.
 
 <p align = "center">
-<img src = "/Udaciy_ROS_ND/RoboND-DeepLearning-Project-master/docs/misc/Figure3.png">
+<img src = "docs/misc/Figure3.png">
 </p>
 <p align = "center">
 Fig 3, <em> Target of this project.</em>
@@ -57,7 +57,7 @@ The decoded sections gradually recover the size of the output data. Then the dat
 
 
 <p align = "center">
-<img src = "/Udaciy_ROS_ND/RoboND-DeepLearning-Project-master/docs/misc/diagram1.png">
+<img src = "docs/misc/Diagram1.PNG">
 </p>
 <p align = "center">
 Diagram 1, <em> FCNN Architecture.</em>
@@ -165,7 +165,7 @@ This is the number of parallel processes during training. This can affect your t
 #### Results
 
 <p align = "center">
-<img src = "/Udaciy_ROS_ND/RoboND-DeepLearning-Project-master/docs/misc/Plot1.png">
+<img src = "docs/misc/Plot1.png">
 </p>
 <p align = "center">
 Plot 1, <em> Training curves from the sixth epoch(top) to the last one(bottom-30).</em>
@@ -210,5 +210,6 @@ This project is part of the [Udacity Robotics Software Nanodegree program](https
     
 Skip connections:
 https://www.youtube.com/watch?time_continue=3&v=JUYLA5PWzo0
+
 Adam optimizer:
 https://keras.io/api/optimizers/adam/
